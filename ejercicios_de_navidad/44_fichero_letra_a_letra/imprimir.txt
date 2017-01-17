@@ -1,0 +1,1 @@
+vamos a imprimir esto por pantalla caracter a caracter
